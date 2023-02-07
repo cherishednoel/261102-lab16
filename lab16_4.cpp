@@ -28,16 +28,19 @@ void shuffle(int &a,int &b,int &c,int &d){
 			a = b;
 			b = temp;
 			break;
+
 		case 1:
 			temp = b;
 			b = c;
 			c = temp;
 			break;
+
 		case 2:
 			temp = c;
 			c = d;
 			d = temp;
 			break;
+			
 		case 3:
 			temp = d;
 			d = a;
