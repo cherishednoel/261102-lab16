@@ -1,5 +1,4 @@
 #include <iostream>
-
 using namespace std;
 
 int main(){
@@ -20,7 +19,7 @@ int main(){
 
 	*x = 6;
 	cout << a << " " << b << " " << c << " " << x << " " << y << " " << z << endl;
-	
+
 	**z = 7;
 	cout << a << " " << b << " " << c << " " << x << " " << y << " " << z << endl;
 	
