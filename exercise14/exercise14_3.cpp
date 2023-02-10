@@ -22,3 +22,5 @@ int main() {
 
 //size of double = 8
 //size of double* = 8
+
+//size of pointers = 8
